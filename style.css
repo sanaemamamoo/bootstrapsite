@@ -3,5 +3,6 @@
 .top{
     background-image: url(https://github.com/sanaemamamoo/bootstrapsite/blob/main/top.png?raw=true);
     background-size: cover;
+    width: 100%;
     height: 600px;
 }
